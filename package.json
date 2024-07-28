@@ -1,11 +1,28 @@
 {
   "name": "handbook-freshwater-fish",
   "version": "0.0.2",
-  "description": "",
+  "description": "freshwater aquarium fishes knowledge base",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write 'content/**/*.{md,mdx}'"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Alex N.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nepsha1986/handbook-freshwater-fish.git"
+  },
+  "keywords": [
+    "fishbase",
+    "aquarium",
+    "freshwater",
+    "fish"
+  ],
+  "bugs": {
+    "url": "https://github.com/Nepsha1986/handbook-freshwater-fish/issues"
+  },
+  "homepage": "https://github.com/Nepsha1986/handbook-freshwater-fish#readme",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
 }
