@@ -1,0 +1,18 @@
+{
+  "scientificName": "Ancistrus dolichopterus",
+  "family": "Loricariidae",
+  "traits": {
+    "size": "12-15",
+    "lifespan": "10-15",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 100,
+    "gh": "6-15",
+    "ph": "6.0-7.5"
+  }
+}

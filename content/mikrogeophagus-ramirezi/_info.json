@@ -1,0 +1,18 @@
+{
+  "scientificName": "Mikrogeophagus ramirezi",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 100,
+    "gh": "6-12",
+    "ph": "6.0-7.5"
+  }
+}

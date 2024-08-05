@@ -1,0 +1,18 @@
+{
+  "scientificName": "Nanochromis nudiceps",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "5-7",
+    "lifespan": "4-6",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "4-10",
+    "ph": "6.0-7.5"
+  }
+}

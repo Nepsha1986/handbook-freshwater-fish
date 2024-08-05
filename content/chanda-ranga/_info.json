@@ -1,0 +1,18 @@
+{
+  "scientificName": "Chanda ranga",
+  "family": "Chandidae",
+  "traits": {
+    "size": "3-5",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 60,
+    "gh": "5-10",
+    "ph": "6.5-7.5"
+  }
+}

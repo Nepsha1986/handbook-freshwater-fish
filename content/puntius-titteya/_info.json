@@ -1,0 +1,18 @@
+{
+  "scientificName": "Puntius titteya",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 80,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}

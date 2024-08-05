@@ -1,0 +1,18 @@
+{
+  "scientificName": "Gnathonemus petersii",
+  "family": "Mormyridae",
+  "traits": {
+    "size": "30-45",
+    "lifespan": "10-15",
+    "activityTime": "night",
+    "careLevel": 4,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 200,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scientificName": "Aequidens rivulatus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "20-30",
+    "lifespan": "7-10",
+    "activityTime": "day",
+    "careLevel": 4,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-27",
+    "volume": 200,
+    "gh": "8-20",
+    "ph": "6.5-8.0"
+  }
+}
