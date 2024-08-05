@@ -1,0 +1,18 @@
+{
+  "scientificName": "Astronotus ocellatus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "30-35",
+    "lifespan": "10-15",
+    "activityTime": "day",
+    "careLevel": 4,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 300,
+    "gh": "10-20",
+    "ph": "6.0-8.0"
+  }
+}

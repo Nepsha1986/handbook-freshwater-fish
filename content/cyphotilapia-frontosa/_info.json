@@ -1,0 +1,18 @@
+{
+  "scientificName": "Cyphotilapia frontosa",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "30-35",
+    "lifespan": "15-20",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "10-20",
+    "ph": "7.5-9.0"
+  }
+}

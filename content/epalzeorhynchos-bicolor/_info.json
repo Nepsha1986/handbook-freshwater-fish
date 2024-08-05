@@ -1,0 +1,18 @@
+{
+  "scientificName": "Epalzeorhynchos bicolor",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "12-15",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 100,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}

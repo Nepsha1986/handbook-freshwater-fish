@@ -1,0 +1,18 @@
+{
+  "scientificName": "Betta splendens",
+  "family": "Osphronemidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "2-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-30",
+    "volume": 10,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pangasius sutchi",
+  "family": "Pangasiidae",
+  "traits": {
+    "size": "60-90",
+    "lifespan": "10-15",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 500,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}

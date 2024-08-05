@@ -1,0 +1,18 @@
+{
+  "scientificName": "Paracheirodon innesi",
+  "family": "Characidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "5-10",
+    "activityTime": "day",
+    "careLevel": 1,
+    "behaviour": 1,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "20-26",
+    "volume": 40,
+    "gh": "1-8",
+    "ph": "6.0-7.0"
+  }
+}

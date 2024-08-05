@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pseudotropheus zebra",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "8-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 150,
+    "gh": "10-20",
+    "ph": "7.8-8.6"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scientificName": "Hyphessobrycon amandae",
+  "family": "Characidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "2-3",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 40,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
