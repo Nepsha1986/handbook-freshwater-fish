@@ -4,7 +4,7 @@
   "description": "freshwater aquarium fishes knowledge base",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write 'content/**/*.{md,mdx,json}'"
+    "format": "prettier --write 'content/**/*.{md,mdx,json}' 'README.md'"
   },
   "author": "Alex N.",
   "license": "ISC",
