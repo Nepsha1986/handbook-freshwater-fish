@@ -4,7 +4,8 @@
   "description": "freshwater aquarium fishes knowledge base",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write 'content/**/*.{md,mdx,json}' 'README.md'"
+    "format": "prettier --write 'content/**/*.{md,mdx,json}' 'README.md' '__tests__'",
+    "test": "jest"
   },
   "author": "Alex N.",
   "license": "ISC",
@@ -24,5 +25,11 @@
   "homepage": "https://github.com/Nepsha1986/handbook-freshwater-fish#readme",
   "dependencies": {
     "prettier": "^3.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
   }
 }
