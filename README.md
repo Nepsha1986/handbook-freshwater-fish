@@ -7,7 +7,7 @@ starting out, this knowledge base provides valuable insights to help you care fo
 ## Project Overview
 
 This project consists of MDX files that serve as the foundation for various related projects. For example, the website
-[Aquajoy Club](https://aquajoy.club) utilizes this data to provide information about freshwater fish. Even if Aquajoy
+[aquajoy.club](https://aquajoy.club) utilizes this data to provide information about freshwater fish. Even if Aquajoy
 Club experiences downtime, the source files remain secure and accessible through GitHub.
 
 The primary goal of this project is to create a single source of truth for aquarium enthusiasts worldwide, ensuring that
