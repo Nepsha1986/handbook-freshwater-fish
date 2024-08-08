@@ -1,0 +1,18 @@
+{
+  "scientificName": "Cichlasoma salvini",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "15-20",
+    "lifespan": "10-13",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 250,
+    "gh": "8-15",
+    "ph": "6.5-8.0"
+  }
+}
