@@ -1,0 +1,18 @@
+{
+  "scientificName": "Nothobranchius rachovii",
+  "family": "Nothobranchiidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "1-2",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 20,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scientificName": "Macropodus opercularis",
+  "family": "Osphronemidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "4-6",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 3,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "20-26",
+    "volume": 60,
+    "gh": "5-19",
+    "ph": "6.0-8.0"
+  }
+}
