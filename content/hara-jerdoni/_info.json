@@ -1,0 +1,18 @@
+{
+  "scientificName": "Hara jerdoni",
+  "family": "Sisoridae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "5-7",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 100,
+    "gh": "5-10",
+    "ph": "6.0-7.5"
+  }
+}
