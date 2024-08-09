@@ -1,0 +1,18 @@
+{
+  "scientificName": "Callichthys callichthys",
+  "family": "Loricariidae",
+  "traits": {
+    "size": "10-15",
+    "lifespan": "10-15",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 50,
+    "gh": "6-12",
+    "ph": "6.5-7.5"
+  }
+}
