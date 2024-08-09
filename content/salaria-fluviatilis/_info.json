@@ -1,0 +1,18 @@
+{
+  "scientificName": "Salaria fluviatilis",
+  "family": "Blenniidae",
+  "traits": {
+    "size": "15-20",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "10-20",
+    "volume": 100,
+    "gh": "9-12",
+    "ph": "7.5-8.5"
+  }
+}
