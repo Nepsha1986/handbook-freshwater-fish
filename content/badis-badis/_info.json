@@ -1,0 +1,18 @@
+{
+  "scientificName": "Badis badis",
+  "family": "Badidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "4-6",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 60,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
