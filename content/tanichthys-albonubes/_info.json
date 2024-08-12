@@ -1,0 +1,18 @@
+{
+  "scientificName": "Tanichthys albonubes",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "5-7",
+    "activityTime": "day",
+    "careLevel": 1,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "16-22",
+    "volume": 60,
+    "gh": "5-19",
+    "ph": "6.0-8.0"
+  }
+}
