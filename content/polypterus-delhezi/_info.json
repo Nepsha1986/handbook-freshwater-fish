@@ -1,0 +1,18 @@
+{
+  "scientificName": "Polypterus delhezi",
+  "family": "Polypteridae",
+  "traits": {
+    "size": "35-40",
+    "lifespan": "15-20",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "5-20",
+    "ph": "6.5-7.5"
+  }
+}
