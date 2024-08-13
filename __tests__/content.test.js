@@ -59,7 +59,7 @@ describe("check _info.json files structure", () => {
     const dirNames = file.split("/");
     const dirName = dirNames[dirNames.length - 2];
 
-    test(`${dirName} should have the correct _info.json file`, () => {
+    test(`${dirName} should have valid _info.json file`, () => {
       const data = JSON.parse(fs.readFileSync(file, "utf8"));
       expect(checkStructure(data, expectedStructure)).toBe(true);
     });

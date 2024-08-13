@@ -1,0 +1,18 @@
+{
+  "scientificName": "Synodontis eupterus",
+  "family": "Mochokidae",
+  "traits": {
+    "size": "15-20",
+    "lifespan": "8-12",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "23-28",
+    "volume": 150,
+    "gh": "4-15",
+    "ph": "6.5-7.5"
+  }
+}

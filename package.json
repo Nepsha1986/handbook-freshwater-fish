@@ -1,6 +1,6 @@
 {
   "name": "handbook-freshwater-fish",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "freshwater aquarium fishes knowledge base",
   "main": "index.js",
   "scripts": {

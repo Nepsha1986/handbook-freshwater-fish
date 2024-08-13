@@ -1,0 +1,18 @@
+{
+  "scientificName": "Amatitlania nigrofasciata",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "10-13",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 150,
+    "gh": "10-15",
+    "ph": "6.5-8.0"
+  }
+}
