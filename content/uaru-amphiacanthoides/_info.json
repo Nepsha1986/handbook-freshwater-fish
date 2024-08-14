@@ -1,0 +1,18 @@
+{
+  "scientificName": "Uaru amphiacanthoides",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "25-30",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "2-8",
+    "ph": "5.5-7.0"
+  }
+}
