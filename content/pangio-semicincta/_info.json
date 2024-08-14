@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pangio semicincta",
+  "family": "Cobitidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "5-10",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "5-12",
+    "ph": "6.0-7.5"
+  }
+}
