@@ -1,0 +1,18 @@
+{
+  "scientificName": "Anostomus anostomus",
+  "family": "Anostomidae",
+  "traits": {
+    "size": "15-18",
+    "lifespan": "5-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 5
+  },
+  "tankInfo": {
+    "temperature": "23-27",
+    "volume": 250,
+    "gh": "5-12",
+    "ph": "6.0-7.5"
+  }
+}
