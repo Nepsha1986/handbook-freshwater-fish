@@ -1,0 +1,18 @@
+{
+  "scientificName": "Alestopetersius caudalis",
+  "family": "Alestidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "23-27",
+    "volume": 60,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
