@@ -1,0 +1,18 @@
+{
+  "scientificName": "Heteropneustes fossilis",
+  "family": "Heteropneustidae",
+  "traits": {
+    "size": "25-30",
+    "lifespan": "5-10",
+    "activityTime": "nocturnal",
+    "careLevel": 2,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "20-28",
+    "volume": 150,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
