@@ -1,0 +1,18 @@
+{
+  "scientificName": "Barbonymus schwanenfeldii",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "30-35",
+    "lifespan": "10-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 600,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
