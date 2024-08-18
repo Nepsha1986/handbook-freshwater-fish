@@ -1,0 +1,18 @@
+{
+  "scientificName": "Cichlasoma festae",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "30-35",
+    "lifespan": "10-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "6-15",
+    "ph": "6.5-7.5"
+  }
+}
