@@ -1,0 +1,18 @@
+{
+  "scientificName": "Sahyadria denisonii",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "9-12",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 150,
+    "gh": "5-15",
+    "ph": "6.5-7.8"
+  }
+}
