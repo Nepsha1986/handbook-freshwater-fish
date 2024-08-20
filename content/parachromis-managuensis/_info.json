@@ -1,0 +1,18 @@
+{
+  "scientificName": "Parachromis managuensis",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "25-35",
+    "lifespan": "10-15",
+    "activityTime": "day",
+    "careLevel": 4,
+    "behaviour": 4,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-30",
+    "volume": 450,
+    "gh": "10-20",
+    "ph": "7.0-8.7"
+  }
+}

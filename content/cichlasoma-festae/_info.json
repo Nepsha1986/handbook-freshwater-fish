@@ -1,9 +1,9 @@
 {
-  "scientificName": "Cichlasoma salvini",
+  "scientificName": "Cichlasoma festae",
   "family": "Cichlidae",
   "traits": {
-    "size": "15-20",
-    "lifespan": "10-13",
+    "size": "30-35",
+    "lifespan": "10-12",
     "activityTime": "day",
     "careLevel": 3,
     "behaviour": 4,
@@ -11,8 +11,8 @@
   },
   "tankInfo": {
     "temperature": "24-28",
-    "volume": 250,
-    "gh": "8-15",
-    "ph": "6.5-8.0"
+    "volume": 300,
+    "gh": "6-15",
+    "ph": "6.5-7.5"
   }
 }

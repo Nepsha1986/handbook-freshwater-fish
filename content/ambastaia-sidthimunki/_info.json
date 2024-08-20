@@ -1,0 +1,18 @@
+{
+  "scientificName": "Ambastaia sidthimunki",
+  "family": "Botiidae",
+  "traits": {
+    "size": "4-6",
+    "lifespan": "5-10",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 80,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
