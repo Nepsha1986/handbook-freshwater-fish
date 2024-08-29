@@ -1,0 +1,18 @@
+{
+  "scientificName": "Osteoglossum bicirrhosum",
+  "family": "Osteoglossidae",
+  "traits": {
+    "size": "60-100",
+    "lifespan": "10-15",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 500,
+    "gh": "3-12",
+    "ph": "6.0-7.5"
+  }
+}
