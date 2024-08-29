@@ -1,0 +1,18 @@
+{
+  "scientificName": "Hyphessobrycon anisitsi",
+  "family": "Characidae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 1,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 60,
+    "gh": "4-15",
+    "ph": "6.0-8.0"
+  }
+}

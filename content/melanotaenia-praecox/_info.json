@@ -1,0 +1,18 @@
+{
+  "scientificName": "Melanotaenia praecox",
+  "family": "Melanotaeniidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 80,
+    "gh": "8-12",
+    "ph": "6.5-7.5"
+  }
+}

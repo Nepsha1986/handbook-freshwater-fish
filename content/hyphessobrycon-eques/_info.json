@@ -1,0 +1,18 @@
+{
+  "scientificName": "Hyphessobrycon eques",
+  "family": "Characidae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "5-6",
+    "activityTime": "day",
+    "careLevel": 1,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "3-10",
+    "ph": "5.5-7.5"
+  }
+}
