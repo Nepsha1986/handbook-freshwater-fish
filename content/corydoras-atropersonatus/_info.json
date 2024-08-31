@@ -1,0 +1,18 @@
+{
+  "scientificName": "Corydoras atropersonatus",
+  "family": "Callichthyidae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 50,
+    "gh": "2-12",
+    "ph": "6.0-7.5"
+  }
+}
