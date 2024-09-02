@@ -1,0 +1,18 @@
+{
+  "scientificName": "Monodactylus argenteus",
+  "family": "Monodactylidae",
+  "traits": {
+    "size": "20-25",
+    "lifespan": "8-12",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "10-25",
+    "ph": "7.5-8.5"
+  }
+}
