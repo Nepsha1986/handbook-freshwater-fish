@@ -1,0 +1,18 @@
+{
+  "scientificName": "Apteronotus albifrons",
+  "family": "Apteronotidae",
+  "traits": {
+    "size": "20-50",
+    "lifespan": "10-15",
+    "activityTime": "night",
+    "careLevel": 4,
+    "behaviour": 3,
+    "breedingDifficulty": 5
+  },
+  "tankInfo": {
+    "temperature": "23-28",
+    "volume": 350,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
