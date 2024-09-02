@@ -1,0 +1,18 @@
+{
+  "scientificName": "Synodontis petricola",
+  "family": "Mochokidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "8-15",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "23-28",
+    "volume": 150,
+    "gh": "8-20",
+    "ph": "7.5-8.5"
+  }
+}
