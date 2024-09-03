@@ -1,0 +1,18 @@
+{
+  "scientificName": "Telmatherina ladigesi",
+  "family": "Melanotaeniidae",
+  "traits": {
+    "size": "6-7",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 70,
+    "gh": "8-15",
+    "ph": "7.0-8.0"
+  }
+}
