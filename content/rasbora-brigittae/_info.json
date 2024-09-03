@@ -1,0 +1,18 @@
+{
+  "scientificName": "Rasbora brigittae",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "2-3",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 1,
+    "behaviour": 1,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 30,
+    "gh": "1-5",
+    "ph": "4.0-6.5"
+  }
+}

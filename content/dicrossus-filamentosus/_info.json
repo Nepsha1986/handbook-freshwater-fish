@@ -1,0 +1,18 @@
+{
+  "scientificName": "Dicrossus filamentosus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "5-7",
+    "lifespan": "4-6",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "2-8",
+    "ph": "4.5-6.5"
+  }
+}

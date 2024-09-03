@@ -1,0 +1,18 @@
+{
+  "scientificName": "Gymnotus carapo",
+  "family": "Gymnotidae",
+  "traits": {
+    "size": "20-76",
+    "lifespan": "5-10",
+    "activityTime": "night",
+    "careLevel": 4,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "23-28",
+    "volume": 200,
+    "gh": "5-15",
+    "ph": "6.0-8.0"
+  }
+}
