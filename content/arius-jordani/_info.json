@@ -1,0 +1,18 @@
+{
+  "scientificName": "Arius jordani",
+  "family": "Ariidae",
+  "traits": {
+    "size": "30-60",
+    "lifespan": "8-12",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 250,
+    "gh": "10-25",
+    "ph": "7.0-8.5"
+  }
+}
