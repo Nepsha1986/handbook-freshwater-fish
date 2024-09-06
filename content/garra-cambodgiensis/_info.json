@@ -1,0 +1,18 @@
+{
+  "scientificName": "Garra cambodgiensis",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "5-7",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 100,
+    "gh": "6-15",
+    "ph": "6.5-8.0"
+  }
+}
