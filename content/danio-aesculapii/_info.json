@@ -1,0 +1,18 @@
+{
+  "scientificName": "Danio aesculapii",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 50,
+    "gh": "5-12",
+    "ph": "6.0-7.5"
+  }
+}
