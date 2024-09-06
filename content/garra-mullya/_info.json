@@ -1,0 +1,18 @@
+{
+  "scientificName": "Garra mullya",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "12-15",
+    "lifespan": "4-6",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 120,
+    "gh": "5-12",
+    "ph": "6.5-7.5"
+  }
+}
