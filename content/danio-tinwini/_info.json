@@ -1,0 +1,18 @@
+{
+  "scientificName": "Danio tinwini",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "2.5-3",
+    "lifespan": "2-4",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 40,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
