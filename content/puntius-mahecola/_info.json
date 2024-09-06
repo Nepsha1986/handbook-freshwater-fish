@@ -1,0 +1,18 @@
+{
+  "scientificName": "Puntius mahecola",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 75,
+    "gh": "5-18",
+    "ph": "6.0-7.5"
+  }
+}

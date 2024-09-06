@@ -1,0 +1,18 @@
+{
+  "scientificName": "Desmopuntius rhomboocellatus",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "5-7",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 70,
+    "gh": "4-15",
+    "ph": "6.0-7.0"
+  }
+}
