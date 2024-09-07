@@ -1,0 +1,18 @@
+{
+  "scientificName": "Notropis chrosomus",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "5-8",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "15-22",
+    "volume": 60,
+    "gh": "5-12",
+    "ph": "6.5-8.0"
+  }
+}
