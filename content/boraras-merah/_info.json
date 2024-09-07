@@ -1,0 +1,18 @@
+{
+  "scientificName": "Boraras merah",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "1.5-2",
+    "lifespan": "3-4",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 20,
+    "gh": "5-12",
+    "ph": "5.5-7.0"
+  }
+}
