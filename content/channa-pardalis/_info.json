@@ -1,0 +1,18 @@
+{
+  "scientificName": "Channa pardalis",
+  "family": "Channidae",
+  "traits": {
+    "size": "25-30",
+    "lifespan": "8-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 150,
+    "gh": "5-12",
+    "ph": "6.5-7.5"
+  }
+}
