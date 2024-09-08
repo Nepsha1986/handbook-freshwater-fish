@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pantodon buchholzi",
+  "family": "Pantodontidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "5-6",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 100,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}

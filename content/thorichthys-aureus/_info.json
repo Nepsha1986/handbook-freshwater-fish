@@ -1,0 +1,18 @@
+{
+  "scientificName": "Thorichthys aureus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "12-15",
+    "lifespan": "10-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 150,
+    "gh": "8-15",
+    "ph": "7.0-8.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scientificName": "Dawkinsia tambraparniei",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "8-10",
+    "lifespan": "5-7",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 120,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}

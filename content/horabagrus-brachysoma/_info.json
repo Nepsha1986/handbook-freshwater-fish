@@ -1,0 +1,18 @@
+{
+  "scientificName": "Horabagrus brachysoma",
+  "family": "Bagridae",
+  "traits": {
+    "size": "30-40",
+    "lifespan": "8-10",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 250,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
