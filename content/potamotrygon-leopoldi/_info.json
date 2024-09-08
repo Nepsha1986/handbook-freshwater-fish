@@ -1,0 +1,18 @@
+{
+  "scientificName": "Potamotrygon leopoldi",
+  "family": "Potamotrygonidae",
+  "traits": {
+    "size": "30-50",
+    "lifespan": "10-15",
+    "activityTime": "day",
+    "careLevel": 4,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 500,
+    "gh": "3-10",
+    "ph": "6.5-7.5"
+  }
+}
