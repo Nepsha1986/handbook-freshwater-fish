@@ -1,0 +1,18 @@
+{
+  "scientificName": "Girardinus metallicus",
+  "family": "Poeciliidae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "2-3",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 50,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
