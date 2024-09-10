@@ -1,0 +1,18 @@
+{
+  "scientificName": "Anabas testudineus",
+  "family": "Anabantidae",
+  "traits": {
+    "size": "20-25",
+    "lifespan": "7-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-30",
+    "volume": 200,
+    "gh": "6-20",
+    "ph": "6.0-8.0"
+  }
+}
