@@ -1,0 +1,18 @@
+{
+  "scientificName": "Hyphessobrycon roseus",
+  "family": "Characidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 40,
+    "gh": "2-12",
+    "ph": "5.5-7.5"
+  }
+}

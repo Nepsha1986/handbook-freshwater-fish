@@ -1,0 +1,18 @@
+{
+  "scientificName": "Apistogramma viejita",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "4-6",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 50,
+    "gh": "1-10",
+    "ph": "5.0-7.0"
+  }
+}
