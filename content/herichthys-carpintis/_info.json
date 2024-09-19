@@ -1,0 +1,18 @@
+{
+  "scientificName": "Herichthys carpintis",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "15-30",
+    "lifespan": "10-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "8-20",
+    "ph": "6.5-8.0"
+  }
+}
