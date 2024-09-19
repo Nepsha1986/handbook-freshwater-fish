@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pelvicachromis kribensis",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "7-10",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 70,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
