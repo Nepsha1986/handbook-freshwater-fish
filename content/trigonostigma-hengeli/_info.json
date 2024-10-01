@@ -1,0 +1,18 @@
+{
+  "scientificName": "Trigonostigma hengeli",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "2-3",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 1,
+    "behaviour": 1,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 30,
+    "gh": "5-12",
+    "ph": "6.0-7.0"
+  }
+}

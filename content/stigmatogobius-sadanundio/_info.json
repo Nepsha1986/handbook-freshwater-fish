@@ -1,0 +1,18 @@
+{
+  "scientificName": "Stigmatogobius sadanundio",
+  "family": "Gobiidae",
+  "traits": {
+    "size": "7-10",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 60,
+    "gh": "8-15",
+    "ph": "7.0-8.5"
+  }
+}
