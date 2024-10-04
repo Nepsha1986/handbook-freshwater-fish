@@ -1,0 +1,18 @@
+{
+  "scientificName": "Symphysodon discus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "15-20",
+    "lifespan": "10-15",
+    "activityTime": "diurnal",
+    "careLevel": 4,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "26-30",
+    "volume": 300,
+    "gh": "1-10",
+    "ph": "5.5-7.5"
+  }
+}
