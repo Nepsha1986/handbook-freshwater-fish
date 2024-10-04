@@ -1,0 +1,18 @@
+{
+  "scientificName": "Nandopsis tetracanthus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "20-30",
+    "lifespan": "10-15",
+    "activityTime": "diurnal",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 200,
+    "gh": "10-20",
+    "ph": "6.5-8.0"
+  }
+}
