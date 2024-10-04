@@ -1,0 +1,18 @@
+{
+  "scientificName": "Paracheirodon simulans",
+  "family": "Characidae",
+  "traits": {
+    "size": "2.5-3",
+    "lifespan": "4-5",
+    "activityTime": "diurnal",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "23-28",
+    "volume": 40,
+    "gh": "1-8",
+    "ph": "5.0-6.5"
+  }
+}
