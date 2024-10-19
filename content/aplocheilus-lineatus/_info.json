@@ -1,0 +1,18 @@
+{
+  "scientificName": "Aplocheilus lineatus",
+  "family": "Poeciliidae",
+  "traits": {
+    "size": "5-7",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 60,
+    "gh": "5-20",
+    "ph": "6.5-8.0"
+  }
+}
