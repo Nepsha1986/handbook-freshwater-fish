@@ -1,0 +1,18 @@
+{
+  "scientificName": "Kryptopterus vitreolus",
+  "family": "Siluridae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "5-7",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 100,
+    "gh": "5-10",
+    "ph": "6.0-7.5"
+  }
+}
