@@ -1,0 +1,18 @@
+{
+  "scientificName": "Scatophagus argus",
+  "family": "Scatophagidae",
+  "traits": {
+    "size": "30-38",
+    "lifespan": "15",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "10-20",
+    "ph": "7.5-8.5"
+  }
+}
