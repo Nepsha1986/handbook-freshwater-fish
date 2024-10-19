@@ -1,0 +1,18 @@
+{
+  "scientificName": "Corydoras panda",
+  "family": "Callichthyidae",
+  "traits": {
+    "size": "5-6",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 100,
+    "gh": "2-12",
+    "ph": "6.0-7.5"
+  }
+}
