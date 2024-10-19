@@ -1,0 +1,18 @@
+{
+  "scientificName": "Protomelas taeniolatus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "15-25",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 300,
+    "gh": "10-20",
+    "ph": "7.5-8.5"
+  }
+}
