@@ -1,0 +1,18 @@
+{
+  "scientificName": "Xiphophorus variatus",
+  "family": "Poeciliidae",
+  "traits": {
+    "size": "4-6",
+    "lifespan": "3-5",
+    "activityTime": "diurnal",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "20-26",
+    "volume": 80,
+    "gh": "10-30",
+    "ph": "7.0-8.0"
+  }
+}

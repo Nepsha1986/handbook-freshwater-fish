@@ -1,0 +1,18 @@
+{
+  "scientificName": "Otocinclus vittatus",
+  "family": "Loricariidae",
+  "traits": {
+    "size": "4-5",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-26",
+    "volume": 60,
+    "gh": "6-15",
+    "ph": "6.0-7.5"
+  }
+}

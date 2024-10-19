@@ -1,0 +1,18 @@
+{
+  "scientificName": "Petitella rhodostomus",
+  "family": "Characidae",
+  "traits": {
+    "size": "4.5-5",
+    "lifespan": "5-6",
+    "activityTime": "diurnal",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 80,
+    "gh": "2-12",
+    "ph": "5.5-7.0"
+  }
+}

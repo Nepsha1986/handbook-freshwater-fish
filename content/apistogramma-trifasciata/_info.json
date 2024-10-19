@@ -1,0 +1,18 @@
+{
+  "scientificName": "Apistogramma trifasciata",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "4-6",
+    "lifespan": "3-5",
+    "activityTime": "diurnal",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 70,
+    "gh": "2-12",
+    "ph": "5.5-7.0"
+  }
+}
