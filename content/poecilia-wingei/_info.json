@@ -1,0 +1,18 @@
+{
+  "scientificName": "Poecilia wingei",
+  "family": "Poeciliidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "2-4",
+    "activityTime": "diurnal",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "10-25",
+    "ph": "6.5-8.5"
+  }
+}
