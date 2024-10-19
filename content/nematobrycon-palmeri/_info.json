@@ -1,0 +1,18 @@
+{
+  "scientificName": "Nematobrycon palmeri",
+  "family": "Characidae",
+  "traits": {
+    "size": "5-7",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 100,
+    "gh": "4-10",
+    "ph": "6.0-7.5"
+  }
+}
