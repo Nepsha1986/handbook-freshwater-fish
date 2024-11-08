@@ -1,0 +1,18 @@
+{
+  "scientificName": "Beaufortia kweichowensis",
+  "family": "Gastromyzontidae",
+  "traits": {
+    "size": "5-7",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "20-24",
+    "volume": 80,
+    "gh": "8-15",
+    "ph": "6.5-7.5"
+  }
+}

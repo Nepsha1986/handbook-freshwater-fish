@@ -1,0 +1,18 @@
+{
+  "scientificName": "Mikrogeophagus altispinosus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 70,
+    "gh": "5-12",
+    "ph": "6.0-7.5"
+  }
+}
