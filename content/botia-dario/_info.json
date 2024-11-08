@@ -1,0 +1,18 @@
+{
+  "scientificName": "Botia dario",
+  "family": "Botiidae",
+  "traits": {
+    "size": "8-12",
+    "lifespan": "6-8",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 80,
+    "gh": "6-12",
+    "ph": "6.5-7.5"
+  }
+}
