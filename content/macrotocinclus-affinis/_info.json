@@ -1,0 +1,18 @@
+{
+  "scientificName": "Macrotocinclus affinis",
+  "family": "Loricariidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 40,
+    "gh": "6-15",
+    "ph": "6.0-7.5"
+  }
+}
