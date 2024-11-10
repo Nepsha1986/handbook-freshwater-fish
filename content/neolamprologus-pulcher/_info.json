@@ -1,0 +1,18 @@
+{
+  "scientificName": "Neolamprologus pulcher",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "7-10",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-26",
+    "volume": 100,
+    "gh": "10-20",
+    "ph": "7.8-9.0"
+  }
+}
