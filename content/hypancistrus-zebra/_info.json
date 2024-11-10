@@ -1,0 +1,18 @@
+{
+  "scientificName": "Hypancistrus zebra",
+  "family": "Loricariidae",
+  "traits": {
+    "size": "6-9",
+    "lifespan": "10-15",
+    "activityTime": "night",
+    "careLevel": 4,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "26-30",
+    "volume": 80,
+    "gh": "5-10",
+    "ph": "6.0-7.5"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scientificName": "Megalechis thoracata",
+  "family": "Callichthyidae",
+  "traits": {
+    "size": "12-14",
+    "lifespan": "5-10",
+    "activityTime": "night",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "20-26",
+    "volume": 100,
+    "gh": "5-15",
+    "ph": "6.0-8.0"
+  }
+}

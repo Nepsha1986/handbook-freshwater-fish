@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pterygoplichthys gibbiceps",
+  "family": "Loricariidae",
+  "traits": {
+    "size": "35-50",
+    "lifespan": "10-15",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 200,
+    "gh": "4-20",
+    "ph": "6.5-7.8"
+  }
+}
