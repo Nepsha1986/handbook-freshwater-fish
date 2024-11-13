@@ -1,0 +1,18 @@
+{
+  "scientificName": "Oryzias woworae",
+  "family": "Adrianichthyidae",
+  "traits": {
+    "size": "3-4",
+    "lifespan": "2-3",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 1,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 20,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
