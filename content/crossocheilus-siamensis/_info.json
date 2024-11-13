@@ -1,0 +1,18 @@
+{
+  "scientificName": "Crossocheilus siamensis",
+  "family": "Cyprinidae",
+  "traits": {
+    "size": "10-15",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 5
+  },
+  "tankInfo": {
+    "temperature": "24-26",
+    "volume": 100,
+    "gh": "5-20",
+    "ph": "6.0-7.5"
+  }
+}
