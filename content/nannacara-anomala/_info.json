@@ -1,18 +1,18 @@
 {
-  "scientificName": "scientific name of the fish",
-  "family": "family of the fish",
+  "scientificName": "Nannacara anomala",
+  "family": "Cichlidae",
   "traits": {
-    "size": "length/size of grown-up fish with tail in centimeters. Format: ${from} - ${to}. Example: 4-6",
-    "lifespan": "lifespan of the fish in years. Format: ${from} - ${to}. Example: 10-12",
-    "activityTime": "activity time of the fish. Can be 'day' or 'night'. Example: day",
-    "careLevel": "represents difficulty in care. Rate from 1 (easy) to 5 (hard). Example: 3",
-    "behaviour": "represents behavior. Rate from 1 (peaceful) to 5 (aggressive). Example: 3",
-    "breedingDifficulty": "represents breeding difficulty. Rate from 1 (very easy) to 5 (very hard). Example: 3"
+    "size": "6-8",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
   },
   "tankInfo": {
-    "temperature": "water temperature in Celsius. Format: ${from} - ${to}. Example: 20-22",
-    "volume": "tank minimum volume in liters. Example: 50",
-    "gh": "water hardness in General Hardness. Format: ${from} - ${to}. Example: 9-19",
-    "ph": "water acidity. Format: ${from} - ${to}. Example: 7.0-9.0"
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
   }
 }
