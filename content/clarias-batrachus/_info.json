@@ -1,0 +1,18 @@
+{
+  "scientificName": "Clarias batrachus",
+  "family": "Clariidae",
+  "traits": {
+    "size": "30-45",
+    "lifespan": "8-10",
+    "activityTime": "night",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 200,
+    "gh": "5-20",
+    "ph": "6.5-8.0"
+  }
+}

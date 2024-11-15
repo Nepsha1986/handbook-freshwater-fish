@@ -1,0 +1,18 @@
+{
+  "scientificName": "Maylandia callainos",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "10-13",
+    "lifespan": "6-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 150,
+    "gh": "10-20",
+    "ph": "7.8-8.6"
+  }
+}

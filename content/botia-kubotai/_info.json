@@ -1,0 +1,18 @@
+{
+  "scientificName": "Botia kubotai",
+  "family": "Botiidae",
+  "traits": {
+    "size": "8-12",
+    "lifespan": "8-12",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 2,
+    "breedingDifficulty": 5
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 100,
+    "gh": "5-12",
+    "ph": "6.0-7.5"
+  }
+}

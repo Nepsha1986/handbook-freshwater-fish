@@ -1,0 +1,18 @@
+{
+  "scientificName": "Aulonocara maylandi",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 150,
+    "gh": "10-20",
+    "ph": "7.5-8.5"
+  }
+}

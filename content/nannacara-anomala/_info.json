@@ -1,0 +1,18 @@
+{
+  "scientificName": "Nannacara anomala",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "6-8",
+    "lifespan": "5-8",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 60,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
