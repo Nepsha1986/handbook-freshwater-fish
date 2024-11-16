@@ -1,0 +1,18 @@
+{
+  "scientificName": "Heros notatus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "20-25",
+    "lifespan": "10-15",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 250,
+    "gh": "5-15",
+    "ph": "6.0-7.5"
+  }
+}
