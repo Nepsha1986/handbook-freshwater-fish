@@ -1,0 +1,18 @@
+{
+  "scientificName": "Labeotropheus trewavasae",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "10-13",
+    "lifespan": "8-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "23-28",
+    "volume": 150,
+    "gh": "10-20",
+    "ph": "7.5-8.5"
+  }
+}

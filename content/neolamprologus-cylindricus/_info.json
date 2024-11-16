@@ -1,0 +1,18 @@
+{
+  "scientificName": "Neolamprologus cylindricus",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "5-10",
+    "activityTime": "day",
+    "careLevel": 3,
+    "behaviour": 3,
+    "breedingDifficulty": 2
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 100,
+    "gh": "10-20",
+    "ph": "7.8-9.0"
+  }
+}
