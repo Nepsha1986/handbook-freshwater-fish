@@ -1,0 +1,18 @@
+{
+  "scientificName": "Exodon paradoxus",
+  "family": "Characidae",
+  "traits": {
+    "size": "10-12",
+    "lifespan": "5-8",
+    "activityTime": "diurnal",
+    "careLevel": 3,
+    "behaviour": 4,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 150,
+    "gh": "5-15",
+    "ph": "6.5-7.5"
+  }
+}
