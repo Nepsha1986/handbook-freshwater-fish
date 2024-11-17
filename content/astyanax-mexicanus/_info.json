@@ -4,7 +4,7 @@
   "traits": {
     "size": "9-12",
     "lifespan": "4-5",
-    "activityTime": "diurnal",
+    "activityTime": "day",
     "careLevel": 2,
     "behaviour": 3,
     "breedingDifficulty": 3
