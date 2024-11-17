@@ -1,0 +1,18 @@
+{
+  "scientificName": "Chindongo demasoni",
+  "family": "Cichlidae",
+  "traits": {
+    "size": "7-9",
+    "lifespan": "6-8",
+    "activityTime": "day",
+    "careLevel": 4,
+    "behaviour": 4,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "24-28",
+    "volume": 150,
+    "gh": "10-20",
+    "ph": "7.5-8.5"
+  }
+}

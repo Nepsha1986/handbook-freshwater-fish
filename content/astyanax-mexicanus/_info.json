@@ -1,0 +1,18 @@
+{
+  "scientificName": "Astyanax mexicanus",
+  "family": "Characidae",
+  "traits": {
+    "size": "9-12",
+    "lifespan": "4-5",
+    "activityTime": "diurnal",
+    "careLevel": 2,
+    "behaviour": 3,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "20-25",
+    "volume": 100,
+    "gh": "4-20",
+    "ph": "6.5-8.0"
+  }
+}
