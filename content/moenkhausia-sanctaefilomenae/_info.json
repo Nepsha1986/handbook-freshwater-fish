@@ -1,0 +1,18 @@
+{
+  "scientificName": "Moenkhausia sanctaefilomenae",
+  "family": "Characidae",
+  "traits": {
+    "size": "5-7",
+    "lifespan": "3-5",
+    "activityTime": "day",
+    "careLevel": 2,
+    "behaviour": 2,
+    "breedingDifficulty": 3
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 80,
+    "gh": "3-15",
+    "ph": "6.0-7.5"
+  }
+}
