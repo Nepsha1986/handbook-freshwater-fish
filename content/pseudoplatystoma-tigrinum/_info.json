@@ -1,0 +1,18 @@
+{
+  "scientificName": "Pseudoplatystoma tigrinum",
+  "family": "Pimelodidae",
+  "traits": {
+    "size": "90-120",
+    "lifespan": "15-20",
+    "activityTime": "nocturnal",
+    "careLevel": 4,
+    "behaviour": 3,
+    "breedingDifficulty": 4
+  },
+  "tankInfo": {
+    "temperature": "22-28",
+    "volume": 1000,
+    "gh": "4-12",
+    "ph": "6.0-7.5"
+  }
+}
