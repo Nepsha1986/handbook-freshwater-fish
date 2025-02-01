@@ -11,7 +11,7 @@
   },
   "tankInfo": {
     "temperature": "24-28",
-    "volume": 80,
+    "volume": 100,
     "gh": "6-12",
     "ph": "6.5-7.5"
   }
