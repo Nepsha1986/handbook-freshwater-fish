@@ -124,7 +124,7 @@ excerpt: (краткая информация о рыбе, длина должн
 When the user types "improve_content", the following actions should be performed:
 
 1.  Find the first three articles where `draft: true` is set in the frontmatter.
-2.  Improve these articles, without modifying the `_info.json` file.
+2.  Improve these articles by adding or modifying content to enhance their quality, without making any changes to the _info.json file.
 3.  Assume that the draft articles may contain incorrect or misleading information.
 4.  The only information to be trusted is the fish’s scientific name, which is derived from the folder name.
 5.  The improvements should be written from the perspective of an experienced aquarist with deep knowledge of freshwater aquarium fish.
