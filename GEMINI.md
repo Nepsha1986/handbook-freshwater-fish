@@ -2,6 +2,8 @@
 
 This document provides the templates and schemas to be used when adding new content for freshwater fish species.
 
+When mentioning other fish species in an article, add an internal link to the corresponding article. The link format should be `[fish name](/en/scientific-name-slug)` for English articles and `[название рыбы](/ru/scientific-name-slug)` for Russian articles.
+
 ## Content Template (`.mdx`)
 
 This is the template for the main content file.
@@ -114,3 +116,16 @@ excerpt: (краткая информация о рыбе, длина должн
 размножения, признаки брачного поведения и как ухаживать за мальками (молодью рыбы). Предоставьте советы по успешному
 разведению вида в неволе)
 ```
+
+## Custom Directives
+
+### improve_content
+
+When the user types "improve_content", the following actions should be performed:
+
+1.  Find the first three articles where `draft: true` is set in the frontmatter.
+2.  Improve these articles, without modifying the `_info.json` file.
+3.  Assume that the draft articles may contain incorrect or misleading information.
+4.  The only information to be trusted is the fish’s scientific name, which is derived from the folder name.
+5.  The improvements should be written from the perspective of an experienced aquarist with deep knowledge of freshwater aquarium fish.
+
