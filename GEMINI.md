@@ -128,4 +128,7 @@ When the user types "improve_content", the following actions should be performed
 3.  Assume that the draft articles may contain incorrect or misleading information.
 4.  The only information to be trusted is the fish’s scientific name, which is derived from the folder name.
 5.  The improvements should be written from the perspective of an experienced aquarist with deep knowledge of freshwater aquarium fish.
+6.  Each folder contains articles in multiple languages, stored in [lang].mdx format. The Russian version (ru.mdx) is considered the primary source. Improvements must always be made to ru.mdx, and all other versions in the folder should be translations from the Russian version to the corresponding language. This ensures consistency across languages.
+7.  Currently, only Russian (ru.mdx) and English (en.mdx) versions are supported.
+8.  Once the three articles and their translations have been improved, the AI assistant must stop.
 
