@@ -5,7 +5,6 @@ This document provides comprehensive guidelines for AI assistants working with t
 ## Project Overview
 
 **Name:** Handbook Freshwater Fish
-**Version:** 0.0.37
 **Purpose:** A multilingual knowledge base for freshwater aquarium fish species, serving as a single source of truth for aquarium enthusiasts worldwide.
 
 **Repository:** https://github.com/Nepsha1986/handbook-freshwater-fish
