@@ -1,79 +1,79 @@
 # Improve Draft Article
 
-Найди и улучши первую черновую (draft) статью о рыбе в этом репозитории.
+Find and improve the first draft fish article in this repository.
 
-## Шаги выполнения
+## Steps
 
-### 1. Поиск черновой статьи
+### 1. Find Draft Article
 
-Найди первый файл `ru.mdx` в папке `content/`, который содержит `draft: true` в frontmatter:
+Find the first `ru.mdx` file in the `content/` folder that contains `draft: true` in frontmatter:
 
 ```bash
 grep -l "draft: true" content/*/ru.mdx | head -1
 ```
 
-### 2. Анализ статьи
+### 2. Analyze the Article
 
-- Прочитай найденный файл `ru.mdx`
-- Прочитай соответствующий `_info.json` в той же папке для получения научного названия и параметров
-- Определи научное название рыбы из имени папки (slug в kebab-case)
+- Read the found `ru.mdx` file
+- Read the corresponding `_info.json` in the same folder for scientific name and parameters
+- Determine the fish scientific name from the folder name (kebab-case slug)
 
-### 3. Улучшение русской статьи
+### 3. Improve Russian Article
 
-Перепиши статью как профессиональный аквариумист с многолетним опытом:
+Rewrite the article as a professional aquarist with years of experience:
 
-- **Стиль:** Экспертный, но доступный для начинающих
-- **Тон:** Информативный, практичный
-- **Структура:** Сохрани все 6 обязательных секций:
-  1. `## Обзор` — введение, описание, особенности вида
-  2. `## Требования к аквариуму` — объём, параметры воды, оформление
-  3. `## Кормление и диета` — рацион, режим кормления
-  4. `## Уход и содержание` — подмены воды, фильтрация, мониторинг
-  5. `## Совместимость` — подходящие и неподходящие соседи
-  6. `## Разведение` — условия нереста, уход за мальками
+- **Style:** Expert but accessible for beginners
+- **Tone:** Informative, practical
+- **Structure:** Keep all 6 required sections:
+  1. `## Обзор` — introduction, description, species features
+  2. `## Требования к аквариуму` — volume, water parameters, decoration
+  3. `## Кормление и диета` — diet, feeding schedule
+  4. `## Уход и содержание` — water changes, filtration, monitoring
+  5. `## Совместимость` — suitable and unsuitable tank mates
+  6. `## Разведение` — spawning conditions, fry care
 
-**Требования к frontmatter:**
-- УДАЛИ строку `draft: true`
-- Сохрани `title` и `aliases`
-- Убедись что `excerpt` содержит 140-160 символов
+**Frontmatter requirements:**
+- REMOVE the `draft: true` line
+- Keep `title` and `aliases`
+- Ensure `excerpt` contains 140-160 characters
 
-**Требования к контенту:**
-- Используй курсив для научных названий: `_Название вида_`
-- Добавь внутренние ссылки на другие виды где уместно: `[название](/ru/slug)`
-- Указывай конкретные параметры воды из `_info.json`
-- Пиши практичные советы из реального опыта содержания
+**Content requirements:**
+- Use italics for scientific names: `_Species name_`
+- Add internal links to other species where appropriate: `[name](/ru/slug)`
+- Specify exact water parameters from `_info.json`
+- Write practical tips from real keeping experience
 
-### 4. Создание английской версии
+### 4. Create English Version
 
-Создай файл `en.mdx` в той же папке:
+Create an `en.mdx` file in the same folder:
 
-- Переведи улучшенную русскую статью на английский
-- Адаптируй названия секций:
+- Translate the improved Russian article to English
+- Adapt section names:
   - `## Overview`
   - `## Tank Requirements`
   - `## Feeding and Diet`
   - `## Care and Maintenance`
   - `## Compatibility`
   - `## Breeding`
-- Переведи `title`, `aliases`, `excerpt` в frontmatter
-- Измени внутренние ссылки на `/en/slug` формат
+- Translate `title`, `aliases`, `excerpt` in frontmatter
+- Change internal links to `/en/slug` format
 
-### 5. Форматирование
+### 5. Format Files
 
-После создания/редактирования файлов выполни:
+After creating/editing files, run:
 
 ```bash
 npm run format:all
 ```
 
-### 6. Проверка
+### 6. Verify
 
-Убедись что:
-- [ ] `draft: true` удалён из `ru.mdx`
-- [ ] `excerpt` в пределах 140-160 символов (обе версии)
-- [ ] Все 6 секций присутствуют (обе версии)
-- [ ] Файлы отформатированы
+Ensure that:
+- [ ] `draft: true` is removed from `ru.mdx`
+- [ ] `excerpt` is within 140-160 characters (both versions)
+- [ ] All 6 sections are present (both versions)
+- [ ] Files are formatted
 
-## Результат
+## Result
 
-Сообщи какая статья была улучшена (научное название и путь к файлам).
+Report which article was improved (scientific name and file paths).
