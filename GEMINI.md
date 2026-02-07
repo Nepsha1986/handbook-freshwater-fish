@@ -12,7 +12,7 @@ This is the template for the main content file.
 ---
 title: (fish name here will render as h1 in HTML document)
 aliases: (array of common names of the fish)
-excerpt: (short information about the fish, should have a length of 140 - 160 characters)
+excerpt: (short information about the fish, should have a length of 140 - 160 characters, will be rendered as meta name="description")
 ---
 
 ## Overview
