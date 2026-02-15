@@ -35,7 +35,7 @@ Rewrite the article as a professional aquarist with years of experience:
 **Frontmatter requirements:**
 - REMOVE the `draft: true` line
 - Keep `title` and `aliases`
-- Ensure `excerpt` contains 140-160 characters
+- Ensure `excerpt` is wrapped in double quotes and contains 140-160 characters: `excerpt: "Your excerpt text here"`
 
 **Content requirements:**
 - Use italics for scientific names: `_Species name_`

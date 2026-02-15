@@ -6,8 +6,7 @@
   "scripts": {
     "format": "prettier --write",
     "format:all": "prettier --write 'content/**/*.{md,mdx,json}' 'README.md' '__tests__'",
-    "test": "jest",
-    "assist": "alfred"
+    "test": "jest"
   },
   "author": "Alex N.",
   "license": "ISC",
