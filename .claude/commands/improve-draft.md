@@ -56,6 +56,7 @@ Create an `en.mdx` file in the same folder:
   - `## Compatibility`
   - `## Breeding`
 - Translate `title`, `aliases`, `excerpt` in frontmatter
+- **Note:** Each language version may use different aliases to accommodate language-specific conventions (e.g., common names that exist only in one language, transliterations, or locally popular trade names)
 - Change internal links to `/en/slug` format
 
 ### 5. Format Files
