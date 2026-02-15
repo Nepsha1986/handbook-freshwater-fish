@@ -35,7 +35,7 @@ Rewrite the article as a professional aquarist with years of experience:
 **Frontmatter requirements:**
 - REMOVE the `draft: true` line
 - Keep `title` and `aliases`
-- Ensure `excerpt` contains 140-160 characters
+- Ensure `excerpt` is wrapped in double quotes and contains 140-160 characters: `excerpt: "Your excerpt text here"`
 
 **Content requirements:**
 - Use italics for scientific names: `_Species name_`
@@ -56,6 +56,7 @@ Create an `en.mdx` file in the same folder:
   - `## Compatibility`
   - `## Breeding`
 - Translate `title`, `aliases`, `excerpt` in frontmatter
+- **Note:** Each language version may use different aliases to accommodate language-specific conventions (e.g., common names that exist only in one language, transliterations, or locally popular trade names)
 - Change internal links to `/en/slug` format
 
 ### 5. Format Files
