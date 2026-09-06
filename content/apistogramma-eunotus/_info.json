@@ -14,11 +14,5 @@
     "volume": 80,
     "gh": "2-10",
     "ph": "5.0-7.0"
-  },
-  "imageCredit": {
-    "author": "Swedish Museum of Natural History (NRM), Fish Collection — coll. S.O. Kullander",
-    "source": "https://www.gbif.org/occurrence/47460",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   }
 }

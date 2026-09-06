@@ -4,8 +4,8 @@ This document provides comprehensive guidelines for AI assistants working with t
 
 ## Project Overview
 
-**Name:** Handbook Freshwater Fish **Purpose:** A multilingual knowledge base for freshwater aquarium fish species,
-serving as a single source of truth for aquarium enthusiasts worldwide.
+**Name:** Handbook Freshwater Fish
+**Purpose:** A multilingual knowledge base for freshwater aquarium fish species, serving as a single source of truth for aquarium enthusiasts worldwide.
 
 **Repository:** https://github.com/Nepsha1986/handbook-freshwater-fish
 
@@ -50,7 +50,7 @@ npm run format       # Run Prettier on specific files
 ### Species Folder Naming
 
 - Use kebab-case based on scientific name
-- Example: `abramites-hypselonotus` for _Abramites hypselonotus_
+- Example: `abramites-hypselonotus` for *Abramites hypselonotus*
 
 ### Metadata File (`_info.json`)
 
@@ -79,44 +79,24 @@ Every species folder must contain a `_info.json` file with this exact structure:
 
 **Field Specifications:**
 
-| Field                       | Type   | Format/Values                  |
-| --------------------------- | ------ | ------------------------------ |
-| `scientificName`            | string | Latin binomial name            |
-| `family`                    | string | Taxonomic family name          |
-| `traits.size`               | string | `"min-max"` in centimeters     |
-| `traits.lifespan`           | string | `"min-max"` in years           |
-| `traits.activityTime`       | string | `"day"` or `"night"`           |
-| `traits.careLevel`          | number | 1 (easy) to 5 (hard)           |
-| `traits.behaviour`          | number | 1 (peaceful) to 5 (aggressive) |
+| Field | Type | Format/Values |
+|-------|------|---------------|
+| `scientificName` | string | Latin binomial name |
+| `family` | string | Taxonomic family name |
+| `traits.size` | string | `"min-max"` in centimeters |
+| `traits.lifespan` | string | `"min-max"` in years |
+| `traits.activityTime` | string | `"day"` or `"night"` |
+| `traits.careLevel` | number | 1 (easy) to 5 (hard) |
+| `traits.behaviour` | number | 1 (peaceful) to 5 (aggressive) |
 | `traits.breedingDifficulty` | number | 1 (very easy) to 5 (very hard) |
-| `tankInfo.temperature`      | string | `"min-max"` in Celsius         |
-| `tankInfo.volume`           | number | Minimum liters (integer)       |
-| `tankInfo.gh`               | string | `"min-max"` General Hardness   |
-| `tankInfo.ph`               | string | `"min-max"` pH value           |
-
-**Optional field — `imageCredit`:**
-
-When `_img.webp` is sourced from a Creative Commons / public-domain photo (e.g. Wikimedia Commons, iNaturalist,
-GBIF-aggregated occurrence media), record the attribution in `_info.json`:
-
-```json
-"imageCredit": {
-  "author": "Photographer or institution name",
-  "source": "https://link-to-original-observation-or-record",
-  "license": "CC BY 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
-}
-```
-
-Only use photos under a license that permits commercial reuse (CC0, CC-BY, CC-BY-SA) — never CC-BY-NC. Verify the
-license on the photo's own record, not just the platform's general reputation, and confirm the photo is verifiably the
-named species before using it. Omit `imageCredit` entirely when no attribution is required (e.g. CC0) or the image has
-another source.
+| `tankInfo.temperature` | string | `"min-max"` in Celsius |
+| `tankInfo.volume` | number | Minimum liters (integer) |
+| `tankInfo.gh` | string | `"min-max"` General Hardness |
+| `tankInfo.ph` | string | `"min-max"` pH value |
 
 ### Content Files (`.mdx`)
 
 Each species has content files for supported languages:
-
 - `ru.mdx` - Russian (PRIMARY source of truth)
 - `en.mdx` - English (translation from Russian)
 
@@ -127,7 +107,7 @@ Each species has content files for supported languages:
 title: Fish Common Name
 aliases: [Alternative Name 1, Alternative Name 2]
 excerpt: Short description (140-160 characters)
-draft: true # Optional: marks incomplete articles
+draft: true  # Optional: marks incomplete articles
 ---
 ```
 
@@ -151,7 +131,6 @@ draft: true # Optional: marks incomplete articles
 ### Formatting
 
 Prettier is configured with:
-
 - `printWidth`: 120 characters
 - `tabWidth`: 2 spaces
 - `proseWrap`: always (wraps prose content)
@@ -161,7 +140,6 @@ Run `npm run format:all` before committing.
 ### Internal Links
 
 When referencing other fish species in articles:
-
 - English: `[fish name](/en/scientific-name-slug)`
 - Russian: `[название рыбы](/ru/scientific-name-slug)`
 
@@ -176,7 +154,6 @@ npm test
 ```
 
 Tests verify:
-
 - All required fields are present
 - Correct data types (strings vs numbers)
 - Proper nested structure for `traits` and `tankInfo`
@@ -203,7 +180,6 @@ When writing or improving content:
 ## Draft Articles
 
 Articles with `draft: true` in frontmatter:
-
 - May contain incomplete or inaccurate information
 - The only trusted data is the scientific name (from folder name)
 - Should be improved before removing the draft flag
