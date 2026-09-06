@@ -14,5 +14,11 @@
     "volume": 80,
     "gh": "5-12",
     "ph": "6.0-7.5"
+  },
+  "imageCredit": {
+    "author": "Zakqary Roy",
+    "source": "https://www.inaturalist.org/observations/146465534",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   }
 }

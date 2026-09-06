@@ -20,6 +20,13 @@ const expectedStructure = {
   },
 };
 
+const expectedImageCreditStructure = {
+  author: "string",
+  source: "string",
+  license: "string",
+  licenseUrl: "string",
+};
+
 const checkStructure = (obj, structure) => {
   for (const key in structure) {
     if (typeof structure[key] === "object") {
@@ -62,6 +69,13 @@ describe("check _info.json files structure", () => {
     test(`${dirName} should have valid _info.json file`, () => {
       const data = JSON.parse(fs.readFileSync(file, "utf8"));
       expect(checkStructure(data, expectedStructure)).toBe(true);
+    });
+
+    test(`${dirName} should have valid optional imageCredit if present`, () => {
+      const data = JSON.parse(fs.readFileSync(file, "utf8"));
+      if (data.imageCredit !== undefined) {
+        expect(checkStructure(data.imageCredit, expectedImageCreditStructure)).toBe(true);
+      }
     });
   });
 });
