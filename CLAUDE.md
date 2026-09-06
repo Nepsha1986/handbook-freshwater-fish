@@ -187,8 +187,17 @@ Articles with `draft: true` in frontmatter:
 ## Git Workflow
 
 - Main development uses feature branches with PRs
+- Branch naming follows `feature/version_0_0_NN`, where `NN` is the version being released
+- A release branch also bumps the `version` field in `package.json`
 - Semantic versioning (0.0.x increments)
 - Commits should reference relevant changes clearly
+
+### Language and Style for Git and GitHub
+
+- Write commit messages, PR titles, PR descriptions, and PR comments in **English**, regardless of
+  the language used in the conversation or in the content files
+- For content updates (adding or improving a species article), keep the PR description to **one
+  short sentence** - no sections, checklists, or a restatement of the diff
 
 ## Common Tasks
 
